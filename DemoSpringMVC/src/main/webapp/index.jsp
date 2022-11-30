@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Demo Spring</title>
+<title>Demo Spring MVC</title>
 </head>
 <body>
 	<p>Sunday</p>
